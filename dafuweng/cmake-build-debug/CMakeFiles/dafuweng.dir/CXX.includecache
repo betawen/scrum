@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beta/Desktop/CLionProjects/dafuweng/dafuweng.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/beta/Desktop/CLionProjects/dafuweng/gift_house.cpp
+dafuweng.h
+/home/beta/Desktop/CLionProjects/dafuweng/dafuweng.h
+time.h
+-
+

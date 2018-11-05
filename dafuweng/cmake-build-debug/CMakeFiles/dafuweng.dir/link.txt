@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dafuweng.dir/main.cpp.o CMakeFiles/dafuweng.dir/purchase.cpp.o CMakeFiles/dafuweng.dir/query.cpp.o CMakeFiles/dafuweng.dir/move.cpp.o CMakeFiles/dafuweng.dir/map.cpp.o CMakeFiles/dafuweng.dir/judge.cpp.o CMakeFiles/dafuweng.dir/mine.cpp.o CMakeFiles/dafuweng.dir/gift_house.cpp.o  -o dafuweng 
